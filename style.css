@@ -53,17 +53,3 @@ body {
 .green {
     background-color: lightgreen;
 }
-
-a {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: lightgray;
-    padding: 15px;
-    border-radius: 15px;
-    cursor: pointer;
-    border: 2px grey solid;
-}
-
-a:hover {
-    background-color: gray;
-    transition: .2s ease-in-out;
-}
